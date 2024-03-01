@@ -17,6 +17,7 @@ Les données utilisées dans ce projet sont disponibles sur le lien suivant : ht
 - _Dashboard.py_ est un script Python générant le dashboard interactif.
 - _Data Drift Report.html_ est le tableau HTML de l’analyse du Data Drift pour les principales features.
 - _Modelisation.ipynb_ est le notebook Jupyter permettant l’élaboration du modèle.
+- _Note methodologique.pdf_ présente toute la démarche d'élaboration du modèle jusqu'à l'analyse du Data Drift.
 - _requirements.txt_ contient la liste des packages utilisés pour la réalisation du projet.
 
 Ce répertoire a été recréé sans le dossier _input_ et sans le fichier _.gitattributes_ dans le but d'annuler l'abonnement Git LFS.
